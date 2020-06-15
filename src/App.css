@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 1em;
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.main-footer {
+  background-color: rgb(238, 237, 237);
+  width: 100vw;
+  margin-left: -50vw;
+  left: 50%;
+  position: relative;
+  bottom: 0;
+  padding-top: 1.5em;
+  margin-top: 3em;
+}
+
+/* div.form input.form-fields {
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 400px;
+  color: #6c757d;
+} */
+.form-control {
+  margin-bottom: 10px;
+  color: #6c757d;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.form {
+  margin-top: 2em;
+  display: block;
+  text-align: center;
+}
+
+/* Create three equal columns that floats next to each other */
+.col p,
+h2 {
+  float: left;
+  padding: 10px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
