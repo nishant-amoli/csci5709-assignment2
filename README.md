@@ -154,6 +154,7 @@ Lines 1 - 30
 ---------------
 
 ```
+<!--
 My code on lines mentioned above:
 
 .user-profile {
@@ -186,15 +187,14 @@ My code on lines mentioned above:
   right: 0;
   top: 0;
 }
-
-
+-->
 ```
 
 The code above was created by adapting the code in Kshiti Ghelani’s code snippet on Bootsnipp( https://bootsnipp.com/snippets/K0ZmK ) as shown below: 
 
 ```
 The snippet of code that I referred:
-
+<!--
 <style>
 body{
     background: -webkit-linear-gradient(left, #3931af, #00c6ff);
@@ -440,7 +440,7 @@ body{
                 </div>
             </form>           
         </div>
-
+-->
 ```
 
 - <!---How---> The code in Bootsnipp ( https://bootsnipp.com/snippets/K0ZmK ) was implemented by Kshiti Ghelani 
@@ -495,6 +495,7 @@ Lines 66 - 79
 ---------------
 
 ```
+<!--
 My code on lines mentioned:
 .col p,
 h2 {
@@ -510,7 +511,7 @@ h2 {
   display: table;
   clear: both;
 }
-
+-->
 
 
 ...
@@ -519,7 +520,7 @@ The code above was created by adapting the code in W3 School   ( https://www.w3s
 
 ```
 The snippet of code that I referred:
-
+<!--
 <style>
 * {
   box-sizing: border-box;
@@ -562,7 +563,7 @@ The snippet of code that I referred:
 
 </body>
 </html>
-
+-->
 
 
 ```
