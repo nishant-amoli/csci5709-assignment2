@@ -71,7 +71,7 @@ Lines 11 - 84
 
 ```
 My code on lines mentioned above:
-
+<!--
 <div className="container user-profile">
         <div className="row">
           <div className="col-md-4">
@@ -146,7 +146,7 @@ My code on lines mentioned above:
           </div>
         </div>
       </div>
-
+-->
 
 ### src/styles/UserProfile.css
 
@@ -456,6 +456,7 @@ Lines 18 - 46
 ---------------
 
 ```
+<!--
 My code on lines mentioned:
 
  <div className="row">
@@ -487,7 +488,7 @@ My code on lines mentioned:
           </p>
         </div>
       </div>
-
+-->
 
 ```
 
